@@ -1,36 +1,49 @@
-# GUI Calculator Project
+# Login Authentication Web Application
 
-## Overview
-This is a simple GUI-based calculator developed using Python and Tkinter.
+## Project Description
+This is a responsive web-based login authentication application developed using HTML, CSS, and JavaScript.
 
 ## Features
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/ and \)
-- Power (^)
-- Modulus (%)
-- Clear Button (C)
+- Username and Password fields
+- Login Button
+- Reset/Cancel Button
+- Input Validation
+- Success/Error Messages
+- Responsive User Interface
 
-## Requirements
-- Python 3.x
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Login Credentials
+Username: admin
+Password: admin123
 
 ## How to Run
-1. Install Python.
-2. Open terminal or command prompt.
-3. Run the following command:
-
-```bash
-python calculator.py
-```
+1. Download the project files.
+2. Open the folder.
+3. Double-click index.html.
 
 ## GitHub Upload Steps
-1. Create a new repository on GitHub.
-2. Upload all project files.
-3. Commit and push the files.
+1. Create a GitHub repository.
+2. Upload all files.
+3. Commit and push the repository.
+
+## Deployment Steps
+### Netlify
+1. Go to https://netlify.com
+2. Sign up or log in.
+3. Drag and drop the project folder into Netlify dashboard.
+
+### Vercel
+1. Go to https://vercel.com
+2. Import GitHub repository.
+3. Deploy project.
 
 ## Files Included
-- calculator.py
+- index.html
+- style.css
+- script.js
 - README.md
-- Calculator_Report.docx
-- screenshots/
+- Login_Authentication_Report.docx
